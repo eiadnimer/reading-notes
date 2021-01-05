@@ -7,7 +7,7 @@
 - By default, the linked page will be displayed in the current browser window.
 - Absolute URLs and Relative URLs are using an absolute URL in the href attribute.
 - A local link (a link to a page within the same website) is specified with a relative URL (without the "https://www" part)
-### HTML Layout Elements ###
+## HTML Layout Elements ##
 1. <header> 
 2. <nav> 
 3. <section> 
@@ -16,7 +16,7 @@
 6. <footer> 
 7. <details> 
 8. <summary> 
-### HTML Layout Techniques ###
+## HTML Layout Techniques ##
 1- CSS framework
 2- CSS float property
 3- CSS flexbox
