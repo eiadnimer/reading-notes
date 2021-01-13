@@ -12,3 +12,6 @@
 - Different appearances of List Markers Using the picture in list type and list style Assets. Properties.
 - List markers can be given different appearances using the list-style-type and list-style image properties. Table cells can have different borders and spacing in different browsers, but there are properties you can use to control them and make them more consistent. Forms are easier to use if the form controls are vertically aligned using CSS. Forms benefit from styles that make them feel more interactive.
 - n another words :HTML events are “things” that happen to HTML elements.,which means when JavaScript is used in HTML pages, JavaScript can “react” on these events
+
+
+class09
